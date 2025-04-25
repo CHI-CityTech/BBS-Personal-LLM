@@ -34,11 +34,30 @@ We conducted a structured evaluation of three major LLMs—ChatGPT, Claude AI, a
 
 Key Findings
 
-Criteria      | GPT                                         | Claude                              | DeepSeek
-Summarization | Strong synthesis, slight oversimplification | Most accurate, structured summaries | Simplified, lacks political nuance
-Accuracy      | Minor omissions                             | Highly factual                      | Avoids controversial topics
-Analysis      | Good, but shallow in complex topics         | Deep and contextual                 | Limited critical depth
-Hallucination | Moderate risk                               | Low                                 | Low but context-dependent
+Criteria                                                                      
+Summarization                                      
+Accuracy                                           
+Analysis                                           
+Hallucination
+
+GPT  
+Summarization: Strong synthesis, slight oversimplification
+Accuracy: Minor omissions 
+Analysis: Good, but shallow in complex topics 
+Hallucination: Moderate risk 
+
+Claude 
+Summarization: Most accurate, structured summaries
+Accuracy: Highly factual 
+Analysis: Deep and contextual
+Hallucination: Low 
+
+
+DeepSeek
+Summarization: Simplified, lacks political nuance
+Accuracy: Avoids controversial topics
+Analysis: Limited critical depth
+Hallucination: Low but context-dependent
 
 Claude AI outperformed others with its balanced, detailed, and context-aware summaries.
 The evaluation was guided by criteria such as factual consistency, completeness, reasoning, and hallucination rate.
